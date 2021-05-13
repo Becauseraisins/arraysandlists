@@ -1,0 +1,16 @@
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\arraysandlists.csprojAssemblyReference.cache
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\arraysandlists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\arraysandlists.AssemblyInfoInputs.cache
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\arraysandlists.AssemblyInfo.cs
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\arraysandlists.csproj.CoreCompileInputs.cache
+C:\Users\matth\Class_work\intro_programming\arraysandlists\bin\Debug\net5.0\arraysandlists.exe
+C:\Users\matth\Class_work\intro_programming\arraysandlists\bin\Debug\net5.0\arraysandlists.deps.json
+C:\Users\matth\Class_work\intro_programming\arraysandlists\bin\Debug\net5.0\arraysandlists.runtimeconfig.json
+C:\Users\matth\Class_work\intro_programming\arraysandlists\bin\Debug\net5.0\arraysandlists.runtimeconfig.dev.json
+C:\Users\matth\Class_work\intro_programming\arraysandlists\bin\Debug\net5.0\arraysandlists.dll
+C:\Users\matth\Class_work\intro_programming\arraysandlists\bin\Debug\net5.0\ref\arraysandlists.dll
+C:\Users\matth\Class_work\intro_programming\arraysandlists\bin\Debug\net5.0\arraysandlists.pdb
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\arraysandlists.dll
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\ref\arraysandlists.dll
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\arraysandlists.pdb
+C:\Users\matth\Class_work\intro_programming\arraysandlists\obj\Debug\net5.0\arraysandlists.genruntimeconfig.cache
